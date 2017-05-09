@@ -5,7 +5,7 @@ import java.util.List;
 
 import org.lanqiao.lqmall.domain.Category;
 /*
- * 商品分类
+ * 商品分类DAO
  */
 public interface CategoryDao {
 
